@@ -1,0 +1,13 @@
+{
+  "name": "com.bigshot.isaac",
+  "version": "0.0.0",
+  "description": "Webcrawler for youtube links",
+  "main": "crawler.js",
+  "author": "Vladimir",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "url-parse": "^1.0.5",
+    "request": "^2.69.0"
+  }
+}
